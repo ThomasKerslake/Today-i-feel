@@ -4,8 +4,6 @@
 **Live project:**
  [*Link to live version of project*](https://thomaskerslake.github.io/)
 
-**About**
-
 ‘Today I feel’ is a nod / response towards the project named Emoti-os by I-DAT. Emoti-os made use of written communication to understand the collective emotions of its users, outputting an emotive face to represent the most prominent emotion. My project uses this concept with a more abstract approach, and rather than text, face detection is used to gage a user’s current emotion and output a visual representation of their emotion. The abstract representation has an element of uniqueness to it due to it altering slightly every time you visit or refresh the page. Expression displaying happiness, anger, sadness, fear, disgust, surprise and a neutral expression can all be detected via your webcam as you interact with this project.
 
 **IMPORTANT NOTES**
