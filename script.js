@@ -45,6 +45,7 @@ var disColourMAT = 0x242605;
 window.onload = function() {
 	init();
 	animate();
+	hideNote();
 };
 
 //The init for the creation my Three.js camera / shapes / Objects / lighting
@@ -252,4 +253,11 @@ function hideVideo() {
 function showVideo() {
 	var sidemenu = document.getElementById('menu');
 	sidemenu.style.visibility = 'visible';
+}
+
+function hideNote() {
+	setTimeout(function() {
+		document.getElementById('note').style.display = 'none';
+	}, 10000);
+	return false;
 }
