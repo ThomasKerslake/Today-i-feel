@@ -18,3 +18,4 @@
 3. Start a live server from within your IDE on the index.html.
 4. Or visit https://thomaskerslake.github.io/ for a live version of the project.
 5. While using the project, you can hide elements such as the webcam video stream via the arrows located at the top left of the screen (the project will still function while the stream is hidden).
+6. Smile!
