@@ -11,6 +11,7 @@
 - If you download this project and run into the issue of not being able to load the models, try removing the '.' from './modelname' in script.js.
 - On your first time loading and running the project It may freeze for a few seconds, after that it should run smoothly.
 - This project looks best on 1920x1080 screens.
+- As well as interaction via a webcam, you are able to look around and move the render around by holding right or left click down and moving your mouse. Furthermore you can zoom in and out by scrolling forward or backward. 
 
 **How to use this project**
 1. Download the project zip.
